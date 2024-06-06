@@ -4,555 +4,555 @@
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainGame_BuiltData.uasset" 3
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainGame_BuiltData.uexp" 4
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainGame_BuiltData.ubulk" 5
-"../../../Engine/Content/EngineSounds/Master.uasset" 6
-"../../../Engine/Content/EngineSounds/Master.uexp" 7
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/MasterSoundMix.uasset" 8
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/MasterSoundMix.uexp" 9
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 10
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 11
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 12
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 13
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 14
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 15
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 16
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 17
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 18
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 19
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Room.uasset" 20
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Room.uexp" 21
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Table.uasset" 22
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Table.uexp" 23
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlaceholderNotebookPaper.uasset" 24
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlaceholderNotebookPaper.uexp" 25
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.uasset" 26
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.uexp" 27
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.ufont" 28
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.uasset" 29
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.uexp" 30
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.ufont" 31
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.uasset" 32
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.uexp" 33
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.ufont" 34
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular_Font.uasset" 35
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular_Font.uexp" 36
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackCard.uasset" 37
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackCard.uexp" 38
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_TextTools.uasset" 39
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_TextTools.uexp" 40
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_Deck.uasset" 41
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_Deck.uexp" 42
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06_White.uasset" 43
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06_White.uexp" 44
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06.uasset" 45
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06.uexp" 46
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05_White.uasset" 47
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05_White.uexp" 48
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05.uasset" 49
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05.uexp" 50
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04_White.uasset" 51
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04_White.uexp" 52
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04.uasset" 53
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04.uexp" 54
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03_White.uasset" 55
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03_White.uexp" 56
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03.uasset" 57
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03.uexp" 58
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02_White.uasset" 59
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02_White.uexp" 60
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02.uasset" 61
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02.uexp" 62
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01_White.uasset" 63
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01_White.uexp" 64
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01.uasset" 65
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01.uexp" 66
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_IntArray.uasset" 67
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_IntArray.uexp" 68
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ReaderCard_Struct.uasset" 69
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ReaderCard_Struct.uexp" 70
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_ReaderCard_DataTable.uasset" 71
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_ReaderCard_DataTable.uexp" 72
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/PlayerCard_Struct.uasset" 73
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/PlayerCard_Struct.uexp" 74
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_PlayerCard_DataTable.uasset" 75
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_PlayerCard_DataTable.uexp" 76
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_ReaderCard_DataTable.uasset" 77
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_ReaderCard_DataTable.uexp" 78
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_PlayerCard_DataTable.uasset" 79
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_PlayerCard_DataTable.uexp" 80
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_ReaderCard_DataTable.uasset" 81
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_ReaderCard_DataTable.uexp" 82
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_PlayerCard_DataTable.uasset" 83
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_PlayerCard_DataTable.uexp" 84
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_ReaderCard_DataTable.uasset" 85
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_ReaderCard_DataTable.uexp" 86
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_PlayerCard_DataTable.uasset" 87
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_PlayerCard_DataTable.uexp" 88
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_ReaderCard_DataTable.uasset" 89
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_ReaderCard_DataTable.uexp" 90
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_PlayerCard_DataTable.uasset" 91
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_PlayerCard_DataTable.uexp" 92
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_ReaderCard_DataTable.uasset" 93
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_ReaderCard_DataTable.uexp" 94
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_PlayerCard_DataTable.uasset" 95
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_PlayerCard_DataTable.uexp" 96
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_ReaderCard_DataTable.uasset" 97
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_ReaderCard_DataTable.uexp" 98
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_PlayerCard_DataTable.uasset" 99
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_PlayerCard_DataTable.uexp" 100
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_ReaderCard_DataTable.uasset" 101
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_ReaderCard_DataTable.uexp" 102
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_PlayerCard_DataTable.uasset" 103
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_PlayerCard_DataTable.uexp" 104
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_ReaderCard_DataTable.uasset" 105
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_ReaderCard_DataTable.uexp" 106
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_PlayerCard_DataTable.uasset" 107
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_PlayerCard_DataTable.uexp" 108
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 109
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 110
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/SaveData_PlayerInfo.uasset" 111
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/SaveData_PlayerInfo.uexp" 112
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_DeckOps.uasset" 113
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_DeckOps.uexp" 114
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_WhiteEdit.uasset" 115
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_WhiteEdit.uexp" 116
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_WhiteTextBox.uasset" 117
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_WhiteTextBox.uexp" 118
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_BlackEdit.uasset" 119
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_BlackEdit.uexp" 120
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_BlackTextBox.uasset" 121
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_BlackTextBox.uexp" 122
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 123
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 124
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 125
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 126
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 127
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 128
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 129
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 130
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 131
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 132
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 133
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 134
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 135
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 136
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 137
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 138
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 139
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 140
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 141
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 142
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck_Rename.uasset" 143
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck_Rename.uexp" 144
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_AddCard.uasset" 145
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_AddCard.uexp" 146
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_Breakdown.uasset" 147
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_Breakdown.uexp" 148
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/BlankCardPack_Placeholder.uasset" 149
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/BlankCardPack_Placeholder.uexp" 150
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo_Testing.uasset" 151
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo_Testing.uexp" 152
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerLeftGame_Widget.uasset" 153
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerLeftGame_Widget.uexp" 154
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/MatchFull_Widget.uasset" 155
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/MatchFull_Widget.uexp" 156
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/BeenKicked_Widget.uasset" 157
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/BeenKicked_Widget.uexp" 158
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.uasset" 159
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.uexp" 160
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.ufont" 161
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont_Font.uasset" 162
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont_Font.uexp" 163
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Widget_EnterNichardName.uasset" 164
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Widget_EnterNichardName.uexp" 165
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 166
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uexp" 167
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.ufont" 168
-"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 169
-"../../../Engine/Content/EngineFonts/DroidSansMono.uexp" 170
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.uasset" 171
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.uexp" 172
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.ufont" 173
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.uasset" 174
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.uexp" 175
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.ufont" 176
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.uasset" 177
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.uexp" 178
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.ufont" 179
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.uasset" 180
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.uexp" 181
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.ufont" 182
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.uasset" 183
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.uexp" 184
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.ufont" 185
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.uasset" 186
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.uexp" 187
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.ufont" 188
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.uasset" 189
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.uexp" 190
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.ufont" 191
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.uasset" 192
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.uexp" 193
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.ufont" 194
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.uasset" 195
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.uexp" 196
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.ufont" 197
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.uasset" 198
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.uexp" 199
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.ufont" 200
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli_Font.uasset" 201
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli_Font.uexp" 202
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_ErrorMessage.uasset" 203
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_ErrorMessage.uexp" 204
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackDetailed.uasset" 205
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackDetailed.uexp" 206
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_WhiteDetailed.uasset" 207
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_WhiteDetailed.uexp" 208
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_MasterDeck.uasset" 209
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_MasterDeck.uexp" 210
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Black.uasset" 211
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Black.uexp" 212
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/deck.uasset" 213
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/deck.uexp" 214
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/White.uasset" 215
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/White.uexp" 216
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_CardWithCollision_2.uasset" 217
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_CardWithCollision_2.uexp" 218
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest.uasset" 219
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest.uexp" 220
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.uasset" 221
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.uexp" 222
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.ufont" 223
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate_Font.uasset" 224
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate_Font.uexp" 225
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard_Player.uasset" 226
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard_Player.uexp" 227
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_VictoryScreen.uasset" 228
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_VictoryScreen.uexp" 229
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard.uasset" 230
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard.uexp" 231
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.uasset" 232
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.uexp" 233
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.ufont" 234
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.uasset" 235
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.uexp" 236
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.ufont" 237
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.uasset" 238
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.uexp" 239
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.ufont" 240
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.uasset" 241
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.uexp" 242
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.ufont" 243
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.uasset" 244
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.uexp" 245
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.ufont" 246
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.uasset" 247
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.uexp" 248
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.ufont" 249
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.uasset" 250
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.uexp" 251
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.ufont" 252
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.uasset" 253
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.uexp" 254
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.ufont" 255
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.uasset" 256
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.uexp" 257
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.ufont" 258
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.uasset" 259
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.uexp" 260
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.ufont" 261
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.uasset" 262
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.uexp" 263
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.ufont" 264
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.uasset" 265
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.uexp" 266
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.ufont" 267
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.uasset" 268
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.uexp" 269
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.ufont" 270
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.uasset" 271
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.uexp" 272
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.ufont" 273
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.uasset" 274
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.uexp" 275
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.ufont" 276
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.uasset" 277
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.uexp" 278
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.ufont" 279
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.uasset" 280
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.uexp" 281
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.ufont" 282
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.uasset" 283
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.uexp" 284
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.ufont" 285
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular_Font.uasset" 286
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular_Font.uexp" 287
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_BlackCardDisplay.uasset" 288
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_BlackCardDisplay.uexp" 289
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 290
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 291
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_01.uasset" 292
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_01.uexp" 293
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_02.uasset" 294
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_02.uexp" 295
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_03.uasset" 296
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_03.uexp" 297
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_04.uasset" 298
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_04.uexp" 299
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_05.uasset" 300
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_05.uexp" 301
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_06.uasset" 302
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_06.uexp" 303
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MP.uasset" 304
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MP.uexp" 305
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_07.uasset" 306
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_07.uexp" 307
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_08.uasset" 308
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_08.uexp" 309
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MT.uasset" 310
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MT.uexp" 311
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_Mat.uasset" 312
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_Mat.uexp" 313
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_10.uasset" 314
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_10.uexp" 315
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_09.uasset" 316
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_09.uexp" 317
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen.uasset" 318
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen.uexp" 319
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/LevelingSystem/LevelWidget.uasset" 320
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/LevelingSystem/LevelWidget.uexp" 321
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_CzarDisplay.uasset" 322
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_CzarDisplay.uexp" 323
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Pause_Menu.uasset" 324
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Pause_Menu.uexp" 325
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerInfoStuct.uasset" 326
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerInfoStuct.uexp" 327
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_SpawnInfo.uasset" 328
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_SpawnInfo.uexp" 329
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GM_Main.uasset" 330
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GM_Main.uexp" 331
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Pawn_MainGameCamera.uasset" 332
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Pawn_MainGameCamera.uexp" 333
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PC_Main.uasset" 334
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PC_Main.uexp" 335
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_ScoreCard.uasset" 336
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_ScoreCard.uexp" 337
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GS_Main.uasset" 338
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GS_Main.uexp" 339
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PS_Main.uasset" 340
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PS_Main.uexp" 341
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText.uasset" 342
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText.uexp" 343
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardPackNameText.uasset" 344
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardPackNameText.uexp" 345
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_ColorblindCards.uasset" 346
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_ColorblindCards.uexp" 347
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/TEST_Slap_Slide.uasset" 348
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/TEST_Slap_Slide.uexp" 349
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/PLACEHOLDER_PlayCard.uasset" 350
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/PLACEHOLDER_PlayCard.uexp" 351
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_06.uasset" 352
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_06.uexp" 353
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_05.uasset" 354
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_05.uexp" 355
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_04.uasset" 356
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_04.uexp" 357
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_03.uasset" 358
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_03.uexp" 359
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_02.uasset" 360
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_02.uexp" 361
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_01.uasset" 362
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_01.uexp" 363
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_Cue.uasset" 364
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_Cue.uexp" 365
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Actor_Card_Movement.uasset" 366
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Actor_Card_Movement.uexp" 367
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_CardBundle.uasset" 368
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_CardBundle.uexp" 369
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest.uasset" 370
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest.uexp" 371
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest_Inst.uasset" 372
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest_Inst.uexp" 373
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText_Black.uasset" 374
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText_Black.uexp" 375
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Card.uasset" 376
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Card.uexp" 377
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest_Inst.uasset" 378
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest_Inst.uexp" 379
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Actor_Card.uasset" 380
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Actor_Card.uexp" 381
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_BlackCard_Child.uasset" 382
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_BlackCard_Child.uexp" 383
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_Deck.uasset" 384
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_Deck.uexp" 385
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/Steam_GameInstance.uasset" 386
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/Steam_GameInstance.uexp" 387
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/PC_MainMenu.uasset" 388
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/PC_MainMenu.uexp" 389
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Pawn_MainMenuCamera.uasset" 390
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Pawn_MainMenuCamera.uexp" 391
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/GM_MainMenu.uasset" 392
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/GM_MainMenu.uexp" 393
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_WidgetMacros.uasset" 394
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_WidgetMacros.uexp" 395
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_ForgeOptions.uasset" 396
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_ForgeOptions.uexp" 397
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo.uasset" 398
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo.uexp" 399
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/FunnyForge_Card_Child.uasset" 400
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/FunnyForge_Card_Child.uexp" 401
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor.uasset" 402
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor.uexp" 403
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_DeckCreator_NameDeck.uasset" 404
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_DeckCreator_NameDeck.uexp" 405
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck.uasset" 406
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck.uexp" 407
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator.uasset" 408
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator.uexp" 409
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerCard.uasset" 410
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerCard.uexp" 411
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_FriendInfo.uasset" 412
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_FriendInfo.uexp" 413
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Steam_InviteFriend.uasset" 414
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Steam_InviteFriend.uexp" 415
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox_PlayerDeck_Child.uasset" 416
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox_PlayerDeck_Child.uexp" 417
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox.uasset" 418
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox.uexp" 419
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyClientScreen.uasset" 420
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyClientScreen.uexp" 421
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColor.uasset" 422
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColor.uexp" 423
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/LobbyCharacter.uasset" 424
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/LobbyCharacter.uexp" 425
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GS_Lobby.uasset" 426
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GS_Lobby.uexp" 427
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyHostScreen.uasset" 428
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyHostScreen.uexp" 429
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_KickPlayer.uasset" 430
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_KickPlayer.uexp" 431
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PC_Lobby.uasset" 432
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PC_Lobby.uexp" 433
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_PlayerName.uasset" 434
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_PlayerName.uexp" 435
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PS_Lobby.uasset" 436
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PS_Lobby.uexp" 437
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GM_Lobby.uasset" 438
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GM_Lobby.uexp" 439
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_ActorMacros.uasset" 440
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_ActorMacros.uexp" 441
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.uasset" 442
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.uexp" 443
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.ufont" 444
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited_Font.uasset" 445
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited_Font.uexp" 446
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow.uasset" 447
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow.uexp" 448
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow_Mat.uasset" 449
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow_Mat.uexp" 450
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/CarPackIcon.uasset" 451
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/CarPackIcon.uexp" 452
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/FartPackIcon.uasset" 453
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/FartPackIcon.uexp" 454
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/GamePackIcon.uasset" 455
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/GamePackIcon.uexp" 456
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder.uasset" 457
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder.uexp" 458
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder_Mat.uasset" 459
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder_Mat.uexp" 460
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/MoviePackIcon.uasset" 461
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/MoviePackIcon.uexp" 462
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlusAndMinus.uasset" 463
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlusAndMinus.uexp" 464
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP.uasset" 465
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP.uexp" 466
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video.uasset" 467
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video.uexp" 468
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video_Mat.uasset" 469
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video_Mat.uexp" 470
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static.uasset" 471
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static.uexp" 472
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_MonitorStatic.uasset" 473
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_MonitorStatic.uexp" 474
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_HostGameOptions.uasset" 475
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_HostGameOptions.uexp" 476
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.uasset" 477
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.uexp" 478
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.ubulk" 479
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Monitor.uasset" 480
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Monitor.uexp" 481
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Monitor.uasset" 482
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Monitor.uexp" 483
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_SessionResult_UI.uasset" 484
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_SessionResult_UI.uexp" 485
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_JoinMatchScreen.uasset" 486
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_JoinMatchScreen.uexp" 487
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/JoinGame_Card_Child.uasset" 488
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/JoinGame_Card_Child.uexp" 489
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/HostGame_Card_Child.uasset" 490
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/HostGame_Card_Child.uexp" 491
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/BP_Monitor.uasset" 492
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/BP_Monitor.uexp" 493
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.uasset" 494
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.uexp" 495
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.ufont" 496
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18_Font.uasset" 497
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18_Font.uexp" 498
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_OptionsMenu.uasset" 499
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_OptionsMenu.uexp" 500
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Brown.uasset" 501
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Brown.uexp" 502
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Placeholder_Whiteboard.uasset" 503
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Placeholder_Whiteboard.uexp" 504
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Green.uasset" 505
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Green.uexp" 506
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/OptionsChalkBoard.uasset" 507
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/OptionsChalkBoard.uexp" 508
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_04.uasset" 509
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_04.uexp" 510
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_03.uasset" 511
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_03.uexp" 512
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_02.uasset" 513
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_02.uexp" 514
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_01.uasset" 515
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_01.uexp" 516
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/CardSlap_Cue.uasset" 517
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/CardSlap_Cue.uexp" 518
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_09.uasset" 519
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_09.uexp" 520
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_08.uasset" 521
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_08.uexp" 522
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_07.uasset" 523
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_07.uexp" 524
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_06.uasset" 525
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_06.uexp" 526
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_05.uasset" 527
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_05.uexp" 528
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_04.uasset" 529
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_04.uexp" 530
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_03.uasset" 531
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_03.uexp" 532
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_02.uasset" 533
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_02.uexp" 534
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_01.uasset" 535
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_01.uexp" 536
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/CardSlide_Cue.uasset" 537
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/CardSlide_Cue.uexp" 538
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_06.uasset" 539
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_06.uexp" 540
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_05.uasset" 541
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_05.uexp" 542
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_04.uasset" 543
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_04.uexp" 544
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_03.uasset" 545
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_03.uexp" 546
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_02.uasset" 547
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_02.uexp" 548
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_01.uasset" 549
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_01.uexp" 550
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_SoundCue.uasset" 551
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_SoundCue.uexp" 552
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_Validation.uasset" 553
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_Validation.uexp" 554
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP.uasset" 6
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP.uexp" 7
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video.uasset" 8
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video.uexp" 9
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video_Mat.uasset" 10
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static_MP_Video_Mat.uexp" 11
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static.uasset" 12
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/Static.uexp" 13
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_MonitorStatic.uasset" 14
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_MonitorStatic.uexp" 15
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.uasset" 16
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.uexp" 17
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont.ufont" 18
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont_Font.uasset" 19
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/IconFont/IconFont_Font.uexp" 20
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.uasset" 21
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.uexp" 22
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli.ufont" 23
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.uasset" 24
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.uexp" 25
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-SemiBold.ufont" 26
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.uasset" 27
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.uexp" 28
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Semi-BoldItalic.ufont" 29
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.uasset" 30
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.uexp" 31
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-LightItalic.ufont" 32
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.uasset" 33
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.uexp" 34
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Light.ufont" 35
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.uasset" 36
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.uexp" 37
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Italic.ufont" 38
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.uasset" 39
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.uexp" 40
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLightItalic.ufont" 41
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.uasset" 42
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.uexp" 43
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-ExtraLight.ufont" 44
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.uasset" 45
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.uexp" 46
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-BoldItalic.ufont" 47
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.uasset" 48
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.uexp" 49
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli-Bold.ufont" 50
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli_Font.uasset" 51
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont_2/Muli_Font.uexp" 52
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 53
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uexp" 54
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.ufont" 55
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 56
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 57
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 58
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 59
+"../../../Engine/Content/EngineFonts/DroidSansMono.uexp" 60
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_ErrorMessage.uasset" 61
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_ErrorMessage.uexp" 62
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_WhiteDetailed.uasset" 63
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_WhiteDetailed.uexp" 64
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackCard.uasset" 65
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackCard.uexp" 66
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackDetailed.uasset" 67
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_BlackDetailed.uexp" 68
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_MasterDeck.uasset" 69
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_MasterDeck.uexp" 70
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Black.uasset" 71
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Black.uexp" 72
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/deck.uasset" 73
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/deck.uexp" 74
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/White.uasset" 75
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/White.uexp" 76
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_CardWithCollision_2.uasset" 77
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_CardWithCollision_2.uexp" 78
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest.uasset" 79
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest.uexp" 80
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.uasset" 81
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.uexp" 82
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate.ufont" 83
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate_Font.uasset" 84
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/ChalkboardArrows/Alphahate_Font.uexp" 85
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ReaderCard_Struct.uasset" 86
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ReaderCard_Struct.uexp" 87
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_ReaderCard_DataTable.uasset" 88
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_ReaderCard_DataTable.uexp" 89
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/PlayerCard_Struct.uasset" 90
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/PlayerCard_Struct.uexp" 91
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_PlayerCard_DataTable.uasset" 92
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/ThePoliticsNewsPack_PlayerCard_DataTable.uexp" 93
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_ReaderCard_DataTable.uasset" 94
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_ReaderCard_DataTable.uexp" 95
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_PlayerCard_DataTable.uasset" 96
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheNSFWpack_PlayerCard_DataTable.uexp" 97
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_ReaderCard_DataTable.uasset" 98
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_ReaderCard_DataTable.uexp" 99
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_PlayerCard_DataTable.uasset" 100
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMediaPack_PlayerCard_DataTable.uexp" 101
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_ReaderCard_DataTable.uasset" 102
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_ReaderCard_DataTable.uexp" 103
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_PlayerCard_DataTable.uasset" 104
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheMasonPack_PlayerCard_DataTable.uexp" 105
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_ReaderCard_DataTable.uasset" 106
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_ReaderCard_DataTable.uexp" 107
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_PlayerCard_DataTable.uasset" 108
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheGamerPack_PlayerCard_DataTable.uexp" 109
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_ReaderCard_DataTable.uasset" 110
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_ReaderCard_DataTable.uexp" 111
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_PlayerCard_DataTable.uasset" 112
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheCarPack_PlayerCard_DataTable.uexp" 113
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_ReaderCard_DataTable.uasset" 114
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_ReaderCard_DataTable.uexp" 115
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_PlayerCard_DataTable.uasset" 116
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheButtPack_PlayerCard_DataTable.uexp" 117
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_ReaderCard_DataTable.uasset" 118
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_ReaderCard_DataTable.uexp" 119
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_PlayerCard_DataTable.uasset" 120
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/TheAthleticPack_PlayerCard_DataTable.uexp" 121
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_Deck.uasset" 122
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_Deck.uexp" 123
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_PlayerCard_DataTable.uasset" 124
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_PlayerCard_DataTable.uexp" 125
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_ReaderCard_DataTable.uasset" 126
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/CardInformation/LaughItUpCore_ReaderCard_DataTable.uexp" 127
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 128
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 129
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/SaveData_PlayerInfo.uasset" 130
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/SaveData_PlayerInfo.uexp" 131
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard_Player.uasset" 132
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard_Player.uexp" 133
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/LevelingSystem/LevelWidget.uasset" 134
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/LevelingSystem/LevelWidget.uexp" 135
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_ScoreCard.uasset" 136
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_ScoreCard.uexp" 137
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.uasset" 138
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.uexp" 139
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ThinItalic.ufont" 140
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.uasset" 141
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.uexp" 142
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Thin.ufont" 143
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.uasset" 144
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.uexp" 145
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBoldItalic.ufont" 146
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.uasset" 147
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.uexp" 148
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-SemiBold.ufont" 149
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.uasset" 150
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.uexp" 151
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular.ufont" 152
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.uasset" 153
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.uexp" 154
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-MediumItalic.ufont" 155
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.uasset" 156
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.uexp" 157
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Medium.ufont" 158
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.uasset" 159
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.uexp" 160
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-LightItalic.ufont" 161
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.uasset" 162
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.uexp" 163
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Light.ufont" 164
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.uasset" 165
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.uexp" 166
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Italic.ufont" 167
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.uasset" 168
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.uexp" 169
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLightItalic.ufont" 170
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.uasset" 171
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.uexp" 172
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraLight.ufont" 173
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.uasset" 174
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.uexp" 175
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBoldItalic.ufont" 176
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.uasset" 177
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.uexp" 178
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-ExtraBold.ufont" 179
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.uasset" 180
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.uexp" 181
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BoldItalic.ufont" 182
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.uasset" 183
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.uexp" 184
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Bold.ufont" 185
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.uasset" 186
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.uexp" 187
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-BlackItalic.ufont" 188
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.uasset" 189
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.uexp" 190
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Black.ufont" 191
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular_Font.uasset" 192
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/CAH_SimilarFont/Inter-Regular_Font.uexp" 193
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_BlackCardDisplay.uasset" 194
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_BlackCardDisplay.uexp" 195
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 196
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 197
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Pause_Menu.uasset" 198
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Pause_Menu.uexp" 199
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MP.uasset" 200
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MP.uexp" 201
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MT.uasset" 202
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_MT.uexp" 203
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_Mat.uasset" 204
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_Mat.uexp" 205
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_10.uasset" 206
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_10.uexp" 207
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_09.uasset" 208
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_09.uexp" 209
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_08.uasset" 210
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_08.uexp" 211
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_07.uasset" 212
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_07.uexp" 213
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_06.uasset" 214
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_06.uexp" 215
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_05.uasset" 216
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_05.uexp" 217
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_04.uasset" 218
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_04.uexp" 219
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_03.uasset" 220
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_03.uexp" 221
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_02.uasset" 222
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_02.uexp" 223
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_01.uasset" 224
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen_01.uexp" 225
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen.uasset" 226
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Movies/LoadingScreen.uexp" 227
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerInfoStuct.uasset" 228
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerInfoStuct.uexp" 229
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_SpawnInfo.uasset" 230
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_SpawnInfo.uexp" 231
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GM_Main.uasset" 232
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GM_Main.uexp" 233
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Pawn_MainGameCamera.uasset" 234
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Pawn_MainGameCamera.uexp" 235
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GS_Main.uasset" 236
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/GS_Main.uexp" 237
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_VictoryScreen.uasset" 238
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_VictoryScreen.uexp" 239
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard.uasset" 240
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_Scoreboard.uexp" 241
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_CzarDisplay.uasset" 242
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Widget_CzarDisplay.uexp" 243
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PC_Main.uasset" 244
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PC_Main.uexp" 245
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PS_Main.uasset" 246
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/PS_Main.uexp" 247
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText.uasset" 248
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText.uexp" 249
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardPackNameText.uasset" 250
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardPackNameText.uexp" 251
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_ColorblindCards.uasset" 252
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_ColorblindCards.uexp" 253
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/TEST_Slap_Slide.uasset" 254
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/TEST_Slap_Slide.uexp" 255
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/PLACEHOLDER_PlayCard.uasset" 256
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/PLACEHOLDER_PlayCard.uexp" 257
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_06.uasset" 258
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_06.uexp" 259
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_05.uasset" 260
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_05.uexp" 261
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_04.uasset" 262
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_04.uexp" 263
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_03.uasset" 264
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_03.uexp" 265
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_02.uasset" 266
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_02.uexp" 267
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_01.uasset" 268
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_01.uexp" 269
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_Cue.uasset" 270
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardRespawn/CardRespawn_Cue.uexp" 271
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Actor_Card_Movement.uasset" 272
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainGame/Actor_Card_Movement.uexp" 273
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_CardBundle.uasset" 274
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_CardBundle.uexp" 275
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest.uasset" 276
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest.uexp" 277
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest_Inst.uasset" 278
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColorTest_Inst.uexp" 279
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText_Black.uasset" 280
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_CardText_Black.uexp" 281
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Card.uasset" 282
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Card.uexp" 283
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest_Inst.uasset" 284
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/PlayerCardColorTest_Inst.uexp" 285
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Actor_Card.uasset" 286
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Actor_Card.uexp" 287
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_BlackCard_Child.uasset" 288
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_BlackCard_Child.uexp" 289
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_Deck.uasset" 290
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Actor_Deck.uexp" 291
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/Steam_GameInstance.uasset" 292
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/Steam_GameInstance.uexp" 293
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_HostGameOptions.uasset" 294
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_HostGameOptions.uexp" 295
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.uasset" 296
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.uexp" 297
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Monitor.ubulk" 298
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Monitor.uasset" 299
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Monitor.uexp" 300
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Monitor.uasset" 301
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Monitor.uexp" 302
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_SessionResult_UI.uasset" 303
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_SessionResult_UI.uexp" 304
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerLeftGame_Widget.uasset" 305
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerLeftGame_Widget.uexp" 306
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/MatchFull_Widget.uasset" 307
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/MatchFull_Widget.uexp" 308
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/BeenKicked_Widget.uasset" 309
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/BeenKicked_Widget.uexp" 310
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Widget_EnterNichardName.uasset" 311
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Widget_EnterNichardName.uexp" 312
+"../../../Engine/Content/EngineSounds/Master.uasset" 313
+"../../../Engine/Content/EngineSounds/Master.uexp" 314
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/MasterSoundMix.uasset" 315
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/MasterSoundMix.uexp" 316
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/PC_MainMenu.uasset" 317
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/PC_MainMenu.uexp" 318
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Pawn_MainMenuCamera.uasset" 319
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/Pawn_MainMenuCamera.uexp" 320
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/GM_MainMenu.uasset" 321
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/GM_MainMenu.uexp" 322
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_WidgetMacros.uasset" 323
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_WidgetMacros.uexp" 324
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_JoinMatchScreen.uasset" 325
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/Widget_JoinMatchScreen.uexp" 326
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/JoinGame_Card_Child.uasset" 327
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/JoinGame_Card_Child.uexp" 328
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/HostGame_Card_Child.uasset" 329
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/HostGame_Card_Child.uexp" 330
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/BP_Monitor.uasset" 331
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/BP_Monitor.uexp" 332
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.uasset" 333
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.uexp" 334
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18.ufont" 335
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18_Font.uasset" 336
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ChalkboardFont/Rayando-xj18_Font.uexp" 337
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_OptionsMenu.uasset" 338
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_OptionsMenu.uexp" 339
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Brown.uasset" 340
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Brown.uexp" 341
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Placeholder_Whiteboard.uasset" 342
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Placeholder_Whiteboard.uexp" 343
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Green.uasset" 344
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Green.uexp" 345
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/OptionsChalkBoard.uasset" 346
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MainMenu/OptionsChalkBoard.uexp" 347
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 348
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 349
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 350
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 351
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 352
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 355
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 356
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 357
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Room.uasset" 358
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Room.uexp" 359
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Table.uasset" 360
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/SM_Table.uexp" 361
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_01.uasset" 362
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_01.uexp" 363
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_02.uasset" 364
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_02.uexp" 365
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_04.uasset" 366
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_04.uexp" 367
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_03.uasset" 368
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/Slap_03.uexp" 369
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/CardSlap_Cue.uasset" 370
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlaps/CardSlap_Cue.uexp" 371
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_01.uasset" 372
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_01.uexp" 373
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_02.uasset" 374
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_02.uexp" 375
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_03.uasset" 376
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_03.uexp" 377
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_04.uasset" 378
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_04.uexp" 379
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_05.uasset" 380
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_05.uexp" 381
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_06.uasset" 382
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_06.uexp" 383
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_07.uasset" 384
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_07.uexp" 385
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_08.uasset" 386
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_08.uexp" 387
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_09.uasset" 388
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/Slide_09.uexp" 389
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/CardSlide_Cue.uasset" 390
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/CardSlides/CardSlide_Cue.uexp" 391
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_06.uasset" 392
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_06.uexp" 393
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_05.uasset" 394
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_05.uexp" 395
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_01.uasset" 396
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_01.uexp" 397
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_04.uasset" 398
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_04.uexp" 399
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_03.uasset" 400
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_03.uexp" 401
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_02.uasset" 402
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_02.uexp" 403
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_SoundCue.uasset" 404
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Audio/ChalkboardWriting/Chalk_SoundCue.uexp" 405
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlaceholderNotebookPaper.uasset" 406
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlaceholderNotebookPaper.uexp" 407
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/BlankCardPack_Placeholder.uasset" 408
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/BlankCardPack_Placeholder.uexp" 409
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_IntArray.uasset" 410
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/S_IntArray.uexp" 411
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_DeckOps.uasset" 412
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_DeckOps.uexp" 413
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_TextTools.uasset" 414
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_TextTools.uexp" 415
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_WhiteEdit.uasset" 416
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_WhiteEdit.uexp" 417
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_WhiteTextBox.uasset" 418
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_WhiteTextBox.uexp" 419
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_BlackEdit.uasset" 420
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_BlackEdit.uexp" 421
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_BlackTextBox.uasset" 422
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_BlackTextBox.uexp" 423
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 424
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 425
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 426
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 427
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 428
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 429
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 430
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 431
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 432
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 433
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 434
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 435
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 436
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 437
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 438
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 439
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 440
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck_Rename.uasset" 441
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck_Rename.uexp" 442
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_AddCard.uasset" 443
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_AddCard.uexp" 444
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_Breakdown.uasset" 445
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_Breakdown.uexp" 446
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo_Testing.uasset" 447
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo_Testing.uexp" 448
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo.uasset" 449
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor_DeckInfo.uexp" 450
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/FunnyForge_Card_Child.uasset" 451
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/FunnyForge_Card_Child.uexp" 452
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor.uasset" 453
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckEditor.uexp" 454
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_ForgeOptions.uasset" 455
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_ForgeOptions.uexp" 456
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck.uasset" 457
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator_NameDeck.uexp" 458
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.uasset" 459
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.uexp" 460
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular.ufont" 461
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.uasset" 462
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.uexp" 463
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Bold.ufont" 464
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.uasset" 465
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.uexp" 466
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Black.ufont" 467
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular_Font.uasset" 468
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/HandwrittenFont/Daniel-Regular_Font.uexp" 469
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06_White.uasset" 470
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06_White.uexp" 471
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06.uasset" 472
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_06.uexp" 473
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05_White.uasset" 474
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05_White.uexp" 475
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05.uasset" 476
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_05.uexp" 477
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04_White.uasset" 478
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04_White.uexp" 479
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04.uasset" 480
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_04.uexp" 481
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03_White.uasset" 482
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03_White.uexp" 483
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03.uasset" 484
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_03.uexp" 485
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02_White.uasset" 486
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02_White.uexp" 487
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02.uasset" 488
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_02.uexp" 489
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01_White.uasset" 490
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01_White.uexp" 491
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01.uasset" 492
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Icons/Icon_01.uexp" 493
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_DeckCreator_NameDeck.uasset" 494
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_DeckCreator_NameDeck.uexp" 495
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator.uasset" 496
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/Widget_DeckCreator.uexp" 497
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerCard.uasset" 498
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Networking/Widgets/PlayerCard.uexp" 499
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_FriendInfo.uasset" 500
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_FriendInfo.uexp" 501
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Steam_InviteFriend.uasset" 502
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Steam_InviteFriend.uexp" 503
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox_PlayerDeck_Child.uasset" 504
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox_PlayerDeck_Child.uexp" 505
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox.uasset" 506
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_Lobby_Checkbox.uexp" 507
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyHostScreen.uasset" 508
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyHostScreen.uexp" 509
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_KickPlayer.uasset" 510
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_KickPlayer.uexp" 511
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyClientScreen.uasset" 512
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_LobbyClientScreen.uexp" 513
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_PlayerName.uasset" 514
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/Widget_PlayerName.uexp" 515
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/LobbyCharacter.uasset" 516
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/LobbyCharacter.uexp" 517
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PC_Lobby.uasset" 518
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PC_Lobby.uexp" 519
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColor.uasset" 520
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/CardColors/ReaderCardColor.uexp" 521
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GS_Lobby.uasset" 522
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GS_Lobby.uexp" 523
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PS_Lobby.uasset" 524
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/PS_Lobby.uexp" 525
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GM_Lobby.uasset" 526
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/GameModes-Controller/MultiplayerLobby/GM_Lobby.uexp" 527
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_ActorMacros.uasset" 528
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPML_ActorMacros.uexp" 529
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_Validation.uasset" 530
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Data/Libraries/BPFL_Validation.uexp" 531
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.uasset" 532
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.uexp" 533
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited.ufont" 534
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited_Font.uasset" 535
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Fonts/ComputerFont/Dited_Font.uexp" 536
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow.uasset" 537
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow.uexp" 538
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow_Mat.uasset" 539
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/Arrow_Mat.uexp" 540
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/CarPackIcon.uasset" 541
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/CarPackIcon.uexp" 542
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/FartPackIcon.uasset" 543
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/FartPackIcon.uexp" 544
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/GamePackIcon.uasset" 545
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/GamePackIcon.uexp" 546
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder.uasset" 547
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder.uexp" 548
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder_Mat.uasset" 549
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/LoadingPlaceholder_Mat.uexp" 550
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/MoviePackIcon.uasset" 551
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/MoviePackIcon.uexp" 552
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlusAndMinus.uasset" 553
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Images/PlusAndMinus.uexp" 554
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Cyan.uasset" 555
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Cyan.uexp" 556
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 557
@@ -787,12 +787,12 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 786
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 787
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 788
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 789
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 790
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 791
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 792
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 793
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 794
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 789
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 790
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 791
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 792
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 793
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 794
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 795
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 796
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 797
@@ -885,29 +885,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 884
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 885
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 886
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 887
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 888
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 889
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 890
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 891
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 892
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 893
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 894
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 895
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 896
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 897
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 898
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 899
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 900
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 901
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 902
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 903
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 904
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 905
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 906
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 907
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 908
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 909
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 887
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 888
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 889
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 890
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 891
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 892
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 893
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 894
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 895
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 896
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 897
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 898
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 899
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 900
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 901
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 902
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 903
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 904
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 905
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 906
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 907
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 908
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 909
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 910
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 911
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 912
@@ -1024,10 +1024,10 @@
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 1023
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 1024
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 1025
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1026
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 1027
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1028
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 1029
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1026
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 1027
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1028
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 1029
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1030
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 1031
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1032
@@ -1087,44 +1087,44 @@
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Orange.uexp" 1086
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainGame.uexp" 1087
 "C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainGame.umap" 1088
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.uasset" 1089
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.uexp" 1090
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.ubulk" 1091
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.uasset" 1092
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.uexp" 1093
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.ubulk" 1094
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_WoodFloor.uasset" 1095
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_WoodFloor.uexp" 1096
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/StartingRoomFloor.uasset" 1097
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/StartingRoomFloor.uexp" 1098
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.uasset" 1099
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.uexp" 1100
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.ubulk" 1101
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Keyboard.uasset" 1102
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Keyboard.uexp" 1103
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Keyboard.uasset" 1104
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Keyboard.uexp" 1105
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.uasset" 1106
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.uexp" 1107
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.ubulk" 1108
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Desk.uasset" 1109
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Desk.uexp" 1110
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Desk.uasset" 1111
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Desk.uexp" 1112
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Gray.uasset" 1113
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Gray.uexp" 1114
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Unlockables_Card_Child.uasset" 1115
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Unlockables_Card_Child.uexp" 1116
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/QuitGame_Card_Child.uasset" 1117
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/QuitGame_Card_Child.uexp" 1118
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Options_Card_Child.uasset" 1119
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Options_Card_Child.uexp" 1120
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_OptionsMenu.uasset" 1121
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_OptionsMenu.uexp" 1122
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainMenu.uexp" 1123
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainMenu.umap" 1124
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/TransitionMap.uexp" 1125
-"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/TransitionMap.umap" 1126
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/TransitionMap.uexp" 1089
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/TransitionMap.umap" 1090
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.uasset" 1091
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.uexp" 1092
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_WoodFloor.ubulk" 1093
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.uasset" 1094
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.uexp" 1095
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/N_WoodFloor_Normals.ubulk" 1096
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_WoodFloor.uasset" 1097
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_WoodFloor.uexp" 1098
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/StartingRoomFloor.uasset" 1099
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/StartingRoomFloor.uexp" 1100
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.uasset" 1101
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.uexp" 1102
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Keyboard.ubulk" 1103
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Keyboard.uasset" 1104
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Keyboard.uexp" 1105
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Keyboard.uasset" 1106
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Keyboard.uexp" 1107
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.uasset" 1108
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.uexp" 1109
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/T_Desk.ubulk" 1110
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Desk.uasset" 1111
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/M_Desk.uexp" 1112
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Desk.uasset" 1113
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Meshes/Desk.uexp" 1114
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Gray.uasset" 1115
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Materials-Textures/Gray.uexp" 1116
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Unlockables_Card_Child.uasset" 1117
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Unlockables_Card_Child.uexp" 1118
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/QuitGame_Card_Child.uasset" 1119
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/QuitGame_Card_Child.uexp" 1120
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Options_Card_Child.uasset" 1121
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/MainMenuCards/Options_Card_Child.uexp" 1122
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_OptionsMenu.uasset" 1123
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Blueprints/CardStuff/TEST_Widget_OptionsMenu.uexp" 1124
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainMenu.uexp" 1125
+"C:/Users/Sean Mercer/Documents/GitHub/CardsForHumanity/Content/Maps/Map_MainMenu.umap" 1126
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1127
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1128
 "../../../Engine/Content/Maps/Entry.uexp" 1129
